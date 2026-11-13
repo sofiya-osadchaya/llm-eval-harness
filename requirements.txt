@@ -1,0 +1,4 @@
+pydantic>=2.7,<3
+instructor>=1.7,<2
+openai>=1.60,<3
+pytest>=8,<10

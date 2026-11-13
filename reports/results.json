@@ -1,0 +1,294 @@
+{
+  "mode": "mock",
+  "judge_model": null,
+  "items": 20,
+  "exact_field_accuracy": 0.9,
+  "correct_fields": 36,
+  "total_fields": 40,
+  "checked_claims": 40,
+  "unsupported_claims": 4,
+  "unsupported_claim_rate": 0.1,
+  "judgments": [
+    {
+      "id": "eval-0",
+      "source_sha256": "d8263e7583e7547f4507187473b039795d7969a147c529bda7017a3f993fad80",
+      "judge": {
+        "completeness": 1,
+        "groundedness": 0,
+        "schema_compliance": 2,
+        "numeric_consistency": 0,
+        "relevance": 2,
+        "checked_claims": 2,
+        "unsupported_claims": 1,
+        "evidence_quote": "Synthetic Tower 0 has 800 square metres."
+      }
+    },
+    {
+      "id": "eval-1",
+      "source_sha256": "2ace1e49c60c5357c9256359ee55f835829e37a7d6be61d0d1176f3058184b19",
+      "judge": {
+        "completeness": 2,
+        "groundedness": 2,
+        "schema_compliance": 2,
+        "numeric_consistency": 2,
+        "relevance": 2,
+        "checked_claims": 2,
+        "unsupported_claims": 0,
+        "evidence_quote": "Synthetic Tower 1 has 813 square metres."
+      }
+    },
+    {
+      "id": "eval-2",
+      "source_sha256": "aa0504a8913632e359afd75c1005b086d73708215e5c0afc023b28217f8f5184",
+      "judge": {
+        "completeness": 2,
+        "groundedness": 2,
+        "schema_compliance": 2,
+        "numeric_consistency": 2,
+        "relevance": 2,
+        "checked_claims": 2,
+        "unsupported_claims": 0,
+        "evidence_quote": "Synthetic Tower 2 has 826 square metres."
+      }
+    },
+    {
+      "id": "eval-3",
+      "source_sha256": "40577b500f0ed2c2a45526b2b6de15f671d8ae6fbe2a34a54ea098cff4710fa6",
+      "judge": {
+        "completeness": 2,
+        "groundedness": 2,
+        "schema_compliance": 2,
+        "numeric_consistency": 2,
+        "relevance": 2,
+        "checked_claims": 2,
+        "unsupported_claims": 0,
+        "evidence_quote": "Synthetic Tower 3 has 839 square metres."
+      }
+    },
+    {
+      "id": "eval-4",
+      "source_sha256": "663f9b95fcdeaf3d2e3082f42d736b0506416638213d417fff0b5823ae55419e",
+      "judge": {
+        "completeness": 2,
+        "groundedness": 2,
+        "schema_compliance": 2,
+        "numeric_consistency": 2,
+        "relevance": 2,
+        "checked_claims": 2,
+        "unsupported_claims": 0,
+        "evidence_quote": "Synthetic Tower 4 has 852 square metres."
+      }
+    },
+    {
+      "id": "eval-5",
+      "source_sha256": "ddc4ae00c7e543840594aa4fc79c05ee23806df48019be3bc307abe9a674c30d",
+      "judge": {
+        "completeness": 1,
+        "groundedness": 0,
+        "schema_compliance": 2,
+        "numeric_consistency": 0,
+        "relevance": 2,
+        "checked_claims": 2,
+        "unsupported_claims": 1,
+        "evidence_quote": "Synthetic Tower 5 has 865 square metres."
+      }
+    },
+    {
+      "id": "eval-6",
+      "source_sha256": "75c0f7bbe4ce0ab5afbce347ea312eee6522ebe5c8e0cd7bdebe2b2d99adc0d8",
+      "judge": {
+        "completeness": 2,
+        "groundedness": 2,
+        "schema_compliance": 2,
+        "numeric_consistency": 2,
+        "relevance": 2,
+        "checked_claims": 2,
+        "unsupported_claims": 0,
+        "evidence_quote": "Synthetic Tower 6 has 878 square metres."
+      }
+    },
+    {
+      "id": "eval-7",
+      "source_sha256": "0e2f7eeea9dc0512dd437fe9aeaf3231d4fe7742bd480cd2f1db64df14ad21f5",
+      "judge": {
+        "completeness": 2,
+        "groundedness": 2,
+        "schema_compliance": 2,
+        "numeric_consistency": 2,
+        "relevance": 2,
+        "checked_claims": 2,
+        "unsupported_claims": 0,
+        "evidence_quote": "Synthetic Tower 7 has 891 square metres."
+      }
+    },
+    {
+      "id": "eval-8",
+      "source_sha256": "64aa4e9e83315115e753c2634529dc9a3e968e761610213e7a0531d7dd9350d7",
+      "judge": {
+        "completeness": 2,
+        "groundedness": 2,
+        "schema_compliance": 2,
+        "numeric_consistency": 2,
+        "relevance": 2,
+        "checked_claims": 2,
+        "unsupported_claims": 0,
+        "evidence_quote": "Synthetic Tower 8 has 904 square metres."
+      }
+    },
+    {
+      "id": "eval-9",
+      "source_sha256": "fa8ed551790d277511c21f2f0c5551787aa785b9dee5b07c1918e707dc7b6742",
+      "judge": {
+        "completeness": 2,
+        "groundedness": 2,
+        "schema_compliance": 2,
+        "numeric_consistency": 2,
+        "relevance": 2,
+        "checked_claims": 2,
+        "unsupported_claims": 0,
+        "evidence_quote": "Synthetic Tower 9 has 917 square metres."
+      }
+    },
+    {
+      "id": "eval-10",
+      "source_sha256": "5c61dc088267cf43985ec6ea13bfdcbe86107b2a7dde541ff3b1bc7e088e6f9d",
+      "judge": {
+        "completeness": 1,
+        "groundedness": 0,
+        "schema_compliance": 2,
+        "numeric_consistency": 0,
+        "relevance": 2,
+        "checked_claims": 2,
+        "unsupported_claims": 1,
+        "evidence_quote": "Synthetic Tower 10 has 930 square metres."
+      }
+    },
+    {
+      "id": "eval-11",
+      "source_sha256": "0b3db8f67cee0dd021043d937266e630bd5b10304d58823f785a13308debcdd2",
+      "judge": {
+        "completeness": 2,
+        "groundedness": 2,
+        "schema_compliance": 2,
+        "numeric_consistency": 2,
+        "relevance": 2,
+        "checked_claims": 2,
+        "unsupported_claims": 0,
+        "evidence_quote": "Synthetic Tower 11 has 943 square metres."
+      }
+    },
+    {
+      "id": "eval-12",
+      "source_sha256": "0be15137c0741e6da116981671c7d827ba648222cc1e39a0d3af84b8b36a462c",
+      "judge": {
+        "completeness": 2,
+        "groundedness": 2,
+        "schema_compliance": 2,
+        "numeric_consistency": 2,
+        "relevance": 2,
+        "checked_claims": 2,
+        "unsupported_claims": 0,
+        "evidence_quote": "Synthetic Tower 12 has 956 square metres."
+      }
+    },
+    {
+      "id": "eval-13",
+      "source_sha256": "65d324aa7ab0293dd8be360b51d539852213dcb771df21cfd9b54859a4294f3a",
+      "judge": {
+        "completeness": 2,
+        "groundedness": 2,
+        "schema_compliance": 2,
+        "numeric_consistency": 2,
+        "relevance": 2,
+        "checked_claims": 2,
+        "unsupported_claims": 0,
+        "evidence_quote": "Synthetic Tower 13 has 969 square metres."
+      }
+    },
+    {
+      "id": "eval-14",
+      "source_sha256": "65c60f2d2b7eaba3d0d08fc27980bf3519b00835a7da38691839abf7bd20899f",
+      "judge": {
+        "completeness": 2,
+        "groundedness": 2,
+        "schema_compliance": 2,
+        "numeric_consistency": 2,
+        "relevance": 2,
+        "checked_claims": 2,
+        "unsupported_claims": 0,
+        "evidence_quote": "Synthetic Tower 14 has 982 square metres."
+      }
+    },
+    {
+      "id": "eval-15",
+      "source_sha256": "94f6b49fc66c4345731d7edaa7efe854f475cf1365ddb1af3dec7a57602868bb",
+      "judge": {
+        "completeness": 1,
+        "groundedness": 0,
+        "schema_compliance": 2,
+        "numeric_consistency": 0,
+        "relevance": 2,
+        "checked_claims": 2,
+        "unsupported_claims": 1,
+        "evidence_quote": "Synthetic Tower 15 has 995 square metres."
+      }
+    },
+    {
+      "id": "eval-16",
+      "source_sha256": "bf3d716d54aa93f602c322140b48f81f3bff4ce6604a85f65fb9e9392d030b49",
+      "judge": {
+        "completeness": 2,
+        "groundedness": 2,
+        "schema_compliance": 2,
+        "numeric_consistency": 2,
+        "relevance": 2,
+        "checked_claims": 2,
+        "unsupported_claims": 0,
+        "evidence_quote": "Synthetic Tower 16 has 1008 square metres."
+      }
+    },
+    {
+      "id": "eval-17",
+      "source_sha256": "bdf65807fa2c9d4e9ba6f6aae5bc490b1fa6628ef79151d4a8241749a6da1500",
+      "judge": {
+        "completeness": 2,
+        "groundedness": 2,
+        "schema_compliance": 2,
+        "numeric_consistency": 2,
+        "relevance": 2,
+        "checked_claims": 2,
+        "unsupported_claims": 0,
+        "evidence_quote": "Synthetic Tower 17 has 1021 square metres."
+      }
+    },
+    {
+      "id": "eval-18",
+      "source_sha256": "3721a737843be563a89be0fb0e55d1b148726d848bf08c2e80028b5b172386e1",
+      "judge": {
+        "completeness": 2,
+        "groundedness": 2,
+        "schema_compliance": 2,
+        "numeric_consistency": 2,
+        "relevance": 2,
+        "checked_claims": 2,
+        "unsupported_claims": 0,
+        "evidence_quote": "Synthetic Tower 18 has 1034 square metres."
+      }
+    },
+    {
+      "id": "eval-19",
+      "source_sha256": "1340079ca349dcf955b9b88eeec6d29d2e2018bd5267b71fbf2173077b82ef67",
+      "judge": {
+        "completeness": 2,
+        "groundedness": 2,
+        "schema_compliance": 2,
+        "numeric_consistency": 2,
+        "relevance": 2,
+        "checked_claims": 2,
+        "unsupported_claims": 0,
+        "evidence_quote": "Synthetic Tower 19 has 1047 square metres."
+      }
+    }
+  ],
+  "dataset_sha256": "ba68232a5c645e11a907053680a4d541687993c1195acc101aa013ea758974b7"
+}
