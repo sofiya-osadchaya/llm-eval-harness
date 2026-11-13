@@ -10,4 +10,4 @@ Unsupported claims: 4/40
 
 Dataset SHA-256: `ba68232a5c645e11a907053680a4d541687993c1195acc101aa013ea758974b7`
 
-Mock judgments compare gold fields, not free-form model factuality. Live judge results need independent human audit.
+Mock judgments compare present candidate fields to gold; missing fields reduce accuracy but are not hallucinated claims. Extra fields count as unsupported. This does not evaluate free-form entailment. Live judge results need independent human audit.

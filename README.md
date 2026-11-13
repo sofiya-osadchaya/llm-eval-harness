@@ -15,3 +15,5 @@ python eval.py --dataset data/synthetic.jsonl --backend live --model qwen2.5:7b
 See [measured mock report](reports/results.md) and [methodology](methodology.md).
 Live LLM-as-a-judge code is provided but has not been executed in this package. Mock results do not
 establish LLM quality. No employer benchmark is included. MIT.
+
+Offline regression checks also run through `.github/workflows/checks.yml` on push and pull request. No model credentials are required.
